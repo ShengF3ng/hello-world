@@ -1,6 +1,5 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
-Hello, my name is Scott Tran
-I am a CS student at UTD
-I am currently 20 years old
-end
+#Test 1
+
+#Test 2
+#My name is Scott Tran
